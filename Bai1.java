@@ -18,5 +18,6 @@ public class Bai1 {
         }
         double Dientich = (double) M / N * 4 * r * r;
         System.out.println("Diện tích hình trong xấp xỉ là: " + Dientich);
+        sc.close();
     }
 }

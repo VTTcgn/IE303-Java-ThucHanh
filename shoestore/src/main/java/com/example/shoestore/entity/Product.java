@@ -13,10 +13,8 @@ public class Product {
     private String name;
     private Double price;
     private String brand;
-
     @Column(length = 1000)
     private String description;
-
     private String imageUrl;
 
     // Constructors
